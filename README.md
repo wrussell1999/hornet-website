@@ -1,4 +1,4 @@
-# SigneT Class Owners Association (UK) Website
+# Hornet Class Website
 
 ## Setup
 
